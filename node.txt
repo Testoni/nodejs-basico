@@ -1,0 +1,20 @@
+download Nodejs
+
+----
+Utilizando framework Express: 
+
+npm install -g express
+
+verificar instalacao express -v
+
+criar aplicação:
+express --sessions --css styles -ejs myApp
+
+"express myApp"
+
+entrar no diretorio
+
+rodar node
+- "node app"
+
+npm install

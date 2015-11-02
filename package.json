@@ -1,0 +1,11 @@
+{
+	"name": "aulas-nodejs",
+	"description": "Aulas de Nodejs",
+	"autor": "Gabriel <gabriel.testoni@gmail.com>",
+	"version": "1.0.0",
+	"private": true,
+	"depedencies": 
+		{
+			"mongoose": "*"
+		}
+}
